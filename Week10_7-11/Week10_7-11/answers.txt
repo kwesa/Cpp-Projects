@@ -1,0 +1,36 @@
+Carpet 1: 
+---------
+The total price of my new 10 x 12 carpet is $14.8
+Carpet 2: 
+---------
+The total price of my new 20 x 24 carpet is $118.4
+Carpet 3: 
+---------
+The total price of my new 30 x 40 carpet is $1332
+Carpet 4: 
+---------
+The total price of my new 10 x 12 carpet is $14.8
+Carpet 5: 
+---------
+The total price of my new 20 x 24 carpet is $118.4
+Carpet 6: 
+---------
+The total price of my new 30 x 40 carpet is $1332
+Carpet 7: 
+---------
+The total price of my new 10 x 12 carpet is $14.8
+Carpet 8: 
+---------
+The total price of my new 20 x 24 carpet is $118.4
+Carpet 9: 
+---------
+The total price of my new 30 x 40 carpet is $1332
+Carpet 10: 
+---------
+The total price of my new 10 x 12 carpet is $14.8
+Carpet 11: 
+---------
+The total price of my new 20 x 24 carpet is $118.4
+Carpet 12: 
+---------
+The total price of my new 30 x 40 carpet is $1332

@@ -1,0 +1,11 @@
+What we're going to do 
+
+1.	OOP
+	> Carpet.h >> Carpet.cpp
+	> Rectangle.h >> Rectangle.cpp
+2.	Read the length, width, price per sq yd from a data.txt file 
+3. Write the default and overloaded constructor , and use them from main(); 
+
+
+Quiz
+
